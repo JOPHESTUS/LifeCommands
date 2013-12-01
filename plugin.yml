@@ -1,0 +1,7 @@
+name: LifeCommands
+main: us.jophest.lifecommands.LifeCommands
+version: 1.0
+author: JOPHESTUS
+commands:
+    lifecommands:
+

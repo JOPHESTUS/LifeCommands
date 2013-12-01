@@ -1,0 +1,18 @@
+####################################################
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+#          |   Life Commands Config  |             #
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+####################################################
+
+
+#set commands here, just add them to the stringlist like so
+commands:
+- /kit tools
+
+####################################################
+#Ignore this part below                            #
+#It's not something you need to worry about/change #
+####################################################
+players:
+    JOPHESTUS:
+    - /kit tools
